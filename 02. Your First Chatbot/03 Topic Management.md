@@ -61,5 +61,38 @@ By customizing these system topics, you can control the overall user experience 
 
 <img src="ref/System-Topics.png" />
 
+## Steps to Create a Topic
+1. **Access the Topics Section:**
+    - Navigate to the "Topics" section in Copilot Studio.
+
+2. **Create a New Topic:**
+    - Click on the "Create Topic" button.
+    - Enter a name for your topic (e.g., "Order Status").
+    - Add trigger phrases that will activate this topic (e.g., "What is the status of my order?").
+    - Define the copilot's response for this topic (e.g., "Please provide your order number to check the status.").
+    - Optionally, add more complex logic or actions if needed.
+    - Save the topic.
+    - Test the topic by typing one of the trigger phrases in the chat interface. The copilot should respond with the defined message.
+
+## Modify Existing Topics
+- Locate the topic you want to modify.
+- Edit the trigger phrases or response message as needed.
+- Save your changes.
+- Test the modified topic to ensure it works as expected.
+
+**For example: Let's create a new topic for Vacation**
+- Topic: Vacation Details
+- Description: Empower employees to easily access and understand all necessary information about their vacation benefits, including accrual rates, request procedures, and important policies for planning their time away from work.
+- Save the Topic.
+
+<img src="ref/Create-New-Topic.png" />
+
+**Let's test our Topic**
+- Type "How many days of vacation I will get?" in the chat interface.
+- The copilot should respond with the message you defined, such as "Employees gets 21 days of vacation per year. Manager gets 25 days of vacation per year."
+
+<img src="ref/Test-Topic-Management.png" />
+
+
 ## Summary
 With this section, you learned about the fundamental concept of topics in Copilot Studio. Topics are the building blocks of your copilot, defining how it responds to user inputs through trigger phrases and predefined flows. You also explored how natural language processing enhances the flexibility of trigger phrases, allowing for more conversational interactions. Additionally, you discovered the difference between regular and system topics, with system topics providing a foundation for common tasks and queries. Finally, you saw how topics can be extended with complex logic and actions to create a more sophisticated user experience.
