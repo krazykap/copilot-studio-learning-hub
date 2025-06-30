@@ -1,4 +1,4 @@
-# Topic Management
+# 03. Topic Management
 The primary focus of building a copilot revolves around topics. Topics define the different conversational pathways your copilot can take.
 
 ##	How Topics Work
