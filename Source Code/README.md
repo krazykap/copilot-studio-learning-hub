@@ -30,6 +30,12 @@ To utilize these solutions, you will need to import them into your Power Platfor
 - **Environment Strategy:** Implement a clear environment strategy (e.g., Dev -> Test -> Prod) and use appropriate solution types (unmanaged for Dev, managed for Test/Prod) for your deployment pipeline.
 - **Power Platform CLI:** For advanced users and automated deployments, consider using the **[Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction)** to export and import solutions programmatically.
 
+# Source Code Details
+1. **02YourFirstChatbot_1_0_0_1**
+	- Refer this solution for a basic chatbot implementation, Topic Management using Copilot Studio.
+2. **04DataandGenerativeAI_1_0_0_1**
+	- This solution contains 2 Copilots. 1 Copilot demonstrates how we can connect our agent with Public facing websites where as 2 Copilot demonstrates how we can generate responses based on uploaded documents.
+
 # 💬 Feedback and Contributions
 If you encounter any issues with these solutions, have suggestions for improvements, or wish to contribute, please feel free to reach out or open a new issue on the GitHub repository.
 
