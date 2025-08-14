@@ -35,6 +35,9 @@ To utilize these solutions, you will need to import them into your Power Platfor
 	- Refer this solution for a basic chatbot implementation, Topic Management using Copilot Studio.
 2. **04DataandGenerativeAI_1_0_0_1**
 	- This solution contains 2 Copilots. 1 Copilot demonstrates how we can connect our agent with Public facing websites where as 2 Copilot demonstrates how we can generate responses based on uploaded documents.
+3. **05BuildingActionsWithCopilot_1_0_0_1**
+	- This solution includes an agent that shows how to implement a simple action: sending an email using a Power Automate flow.
+
 
 # 💬 Feedback and Contributions
 If you encounter any issues with these solutions, have suggestions for improvements, or wish to contribute, please feel free to reach out or open a new issue on the GitHub repository.
