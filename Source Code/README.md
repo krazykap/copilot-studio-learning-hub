@@ -37,6 +37,8 @@ To utilize these solutions, you will need to import them into your Power Platfor
 	- This solution contains 2 Copilots. 1 Copilot demonstrates how we can connect our agent with Public facing websites where as 2 Copilot demonstrates how we can generate responses based on uploaded documents.
 3. **05BuildingActionsWithCopilot_1_0_0_1**
 	- This solution includes an agent that shows how to implement a simple action: sending an email using a Power Automate flow.
+4. **06UsePromptsInCopliotAgent_1_0_0_1**
+	- This solution includes an agent that shows how to implement prompt engineering using system and user prompts.
 
 
 # 💬 Feedback and Contributions
